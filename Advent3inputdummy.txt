@@ -1,0 +1,3 @@
+mul(8,8)mul(7,8):#?^ {/*?<mul(6,7)&:why()@]mul(0,1)who(){*@{where()do()#mul(6,7)>why()+mul(9,0)mul(7,26)don't()who()%][]*}who()mul(1,55)select()>>! ?
+mul(8,8)mul(7,8):#?^ {/*?<mul(6,7)&:why()@]mul(0,1)who(){*@{where()do()#mul(6,7)>why()+mul(9,0)mul(7,26)don't()who()%][]*}who()mul(1,55)select()>>! ?
+

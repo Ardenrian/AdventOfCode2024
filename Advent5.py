@@ -53,7 +53,7 @@ def ReturnMiddleValue(update):
 #compliantUpdates = [update for update in updates if UpdateFollowsConstraints(update,constraints)[0]]
 nonComplantUpdates = [update for update in updates if not(UpdateFollowsConstraints(update,constraints))[0]]
 madeCompliantupdates = MakeUpdatesCompliant(nonComplantUpdates, constraints)
-print(madeCompliantupdates)
+#print(madeCompliantupdates)
 middleValues = [int(ReturnMiddleValue(update)) for update in madeCompliantupdates]
 print(sum(middleValues))
 
